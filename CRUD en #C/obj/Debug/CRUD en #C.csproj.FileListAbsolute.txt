@@ -8,3 +8,5 @@ C:\Users\yolin\Documents\DOCUMENTOS Fernanda\Deberes de la Usac (2do. año)\4 se
 C:\Users\yolin\Documents\DOCUMENTOS Fernanda\Deberes de la Usac (2do. año)\4 semestre\Repaso de Progra\CRUD en #C\CRUD en #C\obj\Debug\CRUD en #C.csproj.CoreCompileInputs.cache
 C:\Users\yolin\Documents\DOCUMENTOS Fernanda\Deberes de la Usac (2do. año)\4 semestre\Repaso de Progra\CRUD en #C\CRUD en #C\obj\Debug\CRUD en #C.exe
 C:\Users\yolin\Documents\DOCUMENTOS Fernanda\Deberes de la Usac (2do. año)\4 semestre\Repaso de Progra\CRUD en #C\CRUD en #C\obj\Debug\CRUD en #C.pdb
+C:\Users\yolin\Documents\DOCUMENTOS Fernanda\Deberes de la Usac (2do. año)\4 semestre\Repaso de Progra\CRUD en #C\CRUD en #C\bin\Debug\CrudEstudiantes.mdf
+C:\Users\yolin\Documents\DOCUMENTOS Fernanda\Deberes de la Usac (2do. año)\4 semestre\Repaso de Progra\CRUD en #C\CRUD en #C\bin\Debug\CrudEstudiantes_log.ldf

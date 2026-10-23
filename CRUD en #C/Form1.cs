@@ -14,7 +14,8 @@ namespace CRUD_en__C
     public partial class Form1 : Form
     {
 
-        string cadenaConexion = @"Server=(localdb)\MSSQLLocalDB;Database=CrudEstudiantes;Integrated Security=true;";
+        string cadenaConexion = "Server=(localdb)\\MSSQLLocalDB;" + "Database=MiBaseDatos;" + "AttachDbFilename=|DataDirectory|\\CrudEstudiantes.mdf;" + "Integrated Security=True;";
+        
         public Form1()
         {
             InitializeComponent();
